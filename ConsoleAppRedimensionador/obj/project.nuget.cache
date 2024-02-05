@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "crRah3D6HbMPaafppKLVlP54JPGCqGRNoXfHXwjmsuJWWTXqUvnU2/bgf687E7RB4tM3+WxNbeBx43imfJiAyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivan\\Desktop\\Cursos\\C#\\aulamostrandodotnetEx\\Ex1 Redimencionador\\ConsoleAppRedimensionador\\ConsoleAppRedimensionador\\ConsoleAppRedimensionador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivan\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\ivan\\.nuget\\packages\\system.drawing.common\\8.0.1\\system.drawing.common.8.0.1.nupkg.sha512",
+    "C:\\Users\\ivan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

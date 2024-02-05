@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppRedimensionador", "ConsoleAppRedimensionador\ConsoleAppRedimensionador.csproj", "{D4E68CC2-CF0E-455B-AC6B-5848EBD2DCB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "arquivo_entrada", "arquivo_entrada", "{87F0BB0F-146F-437B-8F2E-B55B78E68D7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "arquivo_redimensionado", "arquivo_redimensionado", "{460A2739-9F8E-47F0-A657-83D86AD34004}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "arquivo_finalizado", "arquivo_finalizado", "{9219E30B-2D74-4457-AA7B-0409CA5B2C19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4E68CC2-CF0E-455B-AC6B-5848EBD2DCB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E68CC2-CF0E-455B-AC6B-5848EBD2DCB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E68CC2-CF0E-455B-AC6B-5848EBD2DCB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E68CC2-CF0E-455B-AC6B-5848EBD2DCB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70A641A2-1EFD-48CF-AF62-5364E01B3D1E}
+	EndGlobalSection
+EndGlobal
